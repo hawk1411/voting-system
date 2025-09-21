@@ -1,4 +1,8 @@
 # Simple Voting Smart Contract 
+
+<img width="1919" height="971" alt="Screenshot 2025-09-21 235845" src="https://github.com/user-attachments/assets/704a9543-5f9f-4de6-8148-29dab030d37b" />
+
+
 A minimal and clear description of a Solidity-based voting contract designed for teaching, small-scale
 polls, or controlled testing environments. This README clarifies the design, usage, limitations, security
 considerations, and suggested improvements for production readiness
